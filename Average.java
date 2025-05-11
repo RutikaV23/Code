@@ -1,6 +1,6 @@
 // find the average of three numbers using function
 import java.util.*;
-class Main {
+class Average {
     
     public static void average(int n,int m,int o){
         int avg = n+m+o ;
