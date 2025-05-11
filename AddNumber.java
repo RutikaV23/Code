@@ -5,7 +5,6 @@ public class AddNumber{
         System.out.println("Enter the number: ");
         int n = sc.nextInt();
         int m = sc.nextInt();
-        }
         int sum = n + m;
         System.out.println("sum is: "+ sum);
     }
